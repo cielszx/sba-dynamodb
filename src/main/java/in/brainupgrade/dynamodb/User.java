@@ -13,7 +13,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@DynamoDBTable(tableName = "sba-zhenxing-AppUsage")
+@DynamoDBTable(tableName = "sba-lambda-AppUsage")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
